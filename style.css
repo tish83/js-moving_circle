@@ -1,0 +1,14 @@
+#gameField{
+    border: 4px solid yellow;
+}
+
+body{
+    height: 100vh;
+    background-color: black;
+    text-align: center;
+    overflow: hidden;
+}
+
+h1{
+    color: white;
+}
